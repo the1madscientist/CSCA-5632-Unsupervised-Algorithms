@@ -27,20 +27,20 @@ References
 
 
 ### Forward
-Welcome to my final project. For this project I have decided to join a Kaggle competiton for classification of breast cancer. This is a project that I feel has real world   
-applications, and models like this one would be of great importance to the medical field. Lifes could potentially be saved, and much better outcomes for patients if models   
+Welcome to my final project. For this project I have decided to join a Kaggle competiton for classification of breast cancer. This is a project that I feel has real world
+applications, and models like this one would be of great importance to the medical field. Lifes could potentially be saved, and much better outcomes for patients if models
 like the these are used for early detection.   
 
 ### Introduction
-I will attempt to, through unsupervised learning models and preprocessing techniques to: clean, train, and predict what the classification of each data point is. My goal   
-for this project is to create a model that with a fairly high degree of accuracy can separate the benign from the malignant. I will do my best to add visual elements to   
-help better understand the data, the models and the results. 
+I will attempt to, through unsupervised learning models and preprocessing techniques to: clean, train, and predict what the classification of each data point is. My goal
+for this project is to create a model that with a fairly high degree of accuracy can separate the benign from the malignant. I will do my best to add visual elements to
+help better understand the data, the models and the results.
 
 ### Dataset Overview
-The dataset consists of 3 CSV files. The first is the training data, it consist of 31 features, and 1 label of M or B (malignant or benign). The 31 features are non-negative  
-measurements mostly of size, shape, and other features of what I assume are masses presumed to be either benign tumors, or malignant tumors.  The second file in the set is   
-the testing data. This data consists of only the X dataset, and does not contain labels. To detimine accuracy there must be a submission to the competition, this it done with  
-the aid of the third file, which is a sample submission csv. By overwriting the data in the predictions column, and saving the CSV to the output, the Kagle website will   
+The dataset consists of 3 CSV files. The first is the training data, it consist of 31 features, and 1 label of M or B (malignant or benign). The 31 features are non-negative
+measurements mostly of size, shape, and other features of what I assume are masses presumed to be either benign tumors, or malignant tumors.  The second file in the set is
+the testing data. This data consists of only the X dataset, and does not contain labels. To detimine accuracy there must be a submission to the competition, this it done with
+the aid of the third file, which is a sample submission csv. By overwriting the data in the predictions column, and saving the CSV to the output, the Kagle website will
 evaluate the model performance, and return a score.   
 
 ### Data Exploration
