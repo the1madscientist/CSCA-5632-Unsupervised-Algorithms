@@ -93,9 +93,9 @@ in the future.
 
 ## References
 
-OpenAI. (2024, December 09). ChatGPT [Large language model]. Retrieved from https://chat.openai.com/
+OpenAI. (2024, November 10 - December 09). ChatGPT [Large language model]. Retrieved from https://chat.openai.com/
 
 PanData. (2019, March 21). EDA Pipeline: Techniques and Methods for Effective Machine Learning Models. Medium. Retrieved from https://medium.com/@panData/eda-pipeline-techniques-and-methods-for-effective-machine-learning-models-506d8ff0d664
 
-GeeksforGeeks. (n.d.). Data Preprocessing in Machine Learning using Python. Retrieved December 09, 2024, from https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
+GeeksforGeeks. (n.d.). Data Preprocessing in Machine Learning using Python. Retrieved December 01, 2024, from https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
 
