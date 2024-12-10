@@ -23,6 +23,8 @@ Conclusion
 
 Future Work
 
+References
+
 
 ### Forward
 Welcome to my final project. For this project I have decided to join a Kaggle competiton for classification of breast cancer. This is a project that I feel has real world   
@@ -88,4 +90,12 @@ the data.
 ### Future Work
 I will not likely do much more with this specific dataset as my models were so accurate. But I will very much be continuing on with Kaggle, and joining more of the competions 
 in the future.
+
+## References
+
+OpenAI. (2024, December 09). ChatGPT [Large language model]. Retrieved from https://chat.openai.com/
+
+PanData. (2019, March 21). EDA Pipeline: Techniques and Methods for Effective Machine Learning Models. Medium. Retrieved from https://medium.com/@panData/eda-pipeline-techniques-and-methods-for-effective-machine-learning-models-506d8ff0d664
+
+GeeksforGeeks. (n.d.). Data Preprocessing in Machine Learning using Python. Retrieved December 09, 2024, from https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
 
