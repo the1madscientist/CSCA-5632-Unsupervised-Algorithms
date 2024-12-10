@@ -1,6 +1,8 @@
 # CSCA-5632-Unsupervised-Algorithms
 ## Final Project
 
+Video Link
+
 Forward
 
 Introduction
@@ -25,6 +27,8 @@ Future Work
 
 References
 
+### Video Link
+https://youtu.be/mMPLxPHR93A
 
 ### Forward
 Welcome to my final project. For this project I have decided to join a Kaggle competiton for classification of breast cancer. This is a project that I feel has real world
