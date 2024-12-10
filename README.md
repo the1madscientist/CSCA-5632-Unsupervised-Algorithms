@@ -53,7 +53,8 @@ distribution plots to show the range of each of the features.
 After some basic clean-up of removing the label data from the training set and creating a separate set, and dropping the on feature with nan values. I split the data into
 testing and training sets so I could more accurately measure the performance of my models. Other preprocessing method that I did try further into the training of the models
 did not imporve upon the models effectiveness. These included scaling and normalizing the data. But as there are very few zero in the data, and all are non negative, I beleive
-that is why these techniques were not beneficial in these models. 
+that is why these techniques were not beneficial in these models. Though scaling the data going to the supervised models haelped quite a bit, so the standard scaler was used
+on the data for those models.
 
 ### Feature Engineering
 Feature engineering for this data set was rather simple, and consisted of removing the 1 bad columns that was called Unnamed: 32, and litteraly had more nan than actual
